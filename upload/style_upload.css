@@ -1,0 +1,46 @@
+@CHARSET "UTF-8";
+
+body{ font-size: 14px; }
+
+th, td{
+	text-align: center;
+	font-weight: normal;
+    border-bottom: 2px #08088A solid;
+}
+h1{
+	padding: 20px;
+	font-size:30px;
+	color: #fff;
+	text-shadow: 1px 1px 1px rgba(0,0,0,0.75);
+	background: linear-gradient(#325A8C 0%, #1C3959 100%);
+	border:1px solid #325A8C;
+	box-shadow:inset 1px 1px 0 rgba(255,255,255,0.25);
+}
+
+/*  リンク  */
+#menu ul li {
+  background-color: #CEECF5;
+  clear: both;
+  display: inline-block;
+  font-size: 14px;
+  width: 15%;
+}
+
+.hide{
+    display:none;
+}
+
+#section_instruction{
+	background:#DBDADA;/*灰色の背景*/
+	padding: 20px;
+}
+
+#fileuploadresult {
+	background:#BFE5F7;/*水色の背景*/
+	padding: 20px;
+}
+
+#compareinstruction{
+	background:#DBDADA;/*灰色の背景*/
+	padding: 20px;
+}

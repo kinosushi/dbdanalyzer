@@ -1,0 +1,49 @@
+
+2017-09-27 07:20:30
+SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'Owner_Work_Group' cannot be null
+2017-09-27 07:20:30
+SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'Owner_Work_Group' cannot be null
+2017-09-27 07:20:30
+SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'Owner_Work_Group' cannot be null
+2017-09-27 07:20:30
+SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'Owner_Work_Group' cannot be null
+2017-09-27 07:20:30
+SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'Owner_Work_Group' cannot be null
+2017-09-27 07:20:30
+SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'Part_Number' cannot be null
+2017-09-27 07:20:30
+SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'Owner_Work_Group' cannot be null
+2017-09-27 07:20:30
+SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'Owner_Work_Group' cannot be null
+2017-09-27 07:20:30
+SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'Part_Number' cannot be null
+2017-09-27 07:20:30
+SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'Part_Desc' cannot be null
+2017-09-27 07:20:30
+SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'Part_Number' cannot be null
+2017-09-27 07:20:30
+SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'Owner_Work_Group' cannot be null
+2017-09-27 07:20:31
+SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'Part_Number' cannot be null
+2017-09-27 07:20:31
+SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'Part_Desc' cannot be null
+2017-09-27 07:20:31
+SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'Owner_Work_Group' cannot be null
+2017-09-27 07:20:31
+SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'Part_Number' cannot be null
+2017-09-27 07:20:31
+SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'Owner_Work_Group' cannot be null
+2017-09-27 07:20:31
+SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'Part_Number' cannot be null
+2017-09-27 07:20:31
+SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'Owner_Work_Group' cannot be null
+2017-09-27 07:20:31
+SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'Owner_Work_Group' cannot be null
+2017-09-27 07:20:31
+SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'Owner_Work_Group' cannot be null
+2017-09-27 07:20:31
+SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'Part_Number' cannot be null
+2017-09-27 07:20:31
+SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'Part_Number' cannot be null
+2017-09-27 07:20:31
+SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'Part_Desc' cannot be null

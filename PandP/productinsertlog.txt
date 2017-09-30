@@ -1,0 +1,166 @@
+2017-09-21 08:15:15
+ファイル名：PPSDBD_Product Family VS Platform_Ver1.5_forPPMD.xlsx
+総行数：1801行
+2017-09-21 08:19:06
+ファイル名：PPSDBD_Product Family VS Platform_Ver1.5_forPPMD.xlsx
+総行数：1801行
+2017-09-21 08:25:29
+ファイル名：PPSDBD_Product Family VS Platform_Ver1.5_forPPMD.xlsx
+総行数：1801行
+処理結果：
+成功：1482
+失敗：318
+処理時間：00分05秒
+
+2017-09-21 08:36:41
+ファイル名：PPSDBD_Product Family VS Platform_Ver1.5_forPPMD.xlsx
+総行数：1801行
+処理結果：
+成功：0
+失敗：1800
+処理時間：00分06秒
+
+2017-09-23 09:26:49
+ファイル名：PPSDBD_Product Family VS Platform_Ver1.5_forPPMD.xlsx
+総行数：1801行
+処理結果：
+成功：0
+失敗：1800
+処理時間：00分06秒
+
+2017-09-23 12:25:56
+ファイル名：PPSDBD_Product Family VS Platform_Ver1.5_forPPMD.xlsx
+総行数：1801行
+処理結果：
+成功：0
+失敗：1800
+処理時間：00分06秒
+
+2017-09-23 12:26:29
+ファイル名：PPSDBD_Product Family VS Platform_Ver1.5_forPPMD.xlsx
+総行数：1801行
+処理結果：
+成功：0
+失敗：1800
+処理時間：00分06秒
+
+2017-09-23 12:29:04
+ファイル名：PPSDBD_Product Family VS Platform_Ver1.5_forPPMD.xlsx
+総行数：1801行
+処理結果：
+成功：0
+失敗：1800
+処理時間：00分06秒
+
+2017-09-23 20:19:27
+ファイル名：test_PPSDBD_Product Family VS Platform_Ver1.5_forPPMD.xlsx
+総行数：1801行
+処理結果：
+成功：0
+失敗：1800
+処理時間：00分06秒
+
+2017-09-23 20:19:55
+ファイル名：test_PPSDBD_Product Family VS Platform_Ver1.5_forPPMD.xlsx
+総行数：1801行
+処理結果：
+成功：0
+失敗：1800
+処理時間：00分06秒
+
+2017-09-23 20:28:01
+ファイル名：test_PPSDBD_Product Family VS Platform_Ver1.5_forPPMD.xlsx
+総行数：1801行
+処理結果：
+成功：0
+失敗：1800
+処理時間：00分06秒
+
+2017-09-23 21:52:02
+ファイル名：PPSDBD_Product Family VS Platform_Ver1.5_forPPMD.xlsx
+総行数：1801行
+処理結果：
+成功：0
+失敗：1800
+処理時間：00分05秒
+
+2017-09-23 21:53:27
+ファイル名：PPSDBD_Product Family VS Platform_Ver1.5_forPPMD.xlsx
+総行数：1801行
+処理結果：
+成功：0
+失敗：1800
+処理時間：00分06秒
+
+2017-09-23 21:55:55
+ファイル名：PPSDBD_Product Family VS Platform_Ver1.5_forPPMD.xlsx
+総行数：1801行
+処理結果：
+成功：0
+失敗：1800
+処理時間：00分06秒
+
+2017-09-24 09:55:49
+ファイル名：PPSDBD_Product Family VS Platform_Ver1.5_forPPMD.xlsx
+総行数：1801行
+処理結果：
+成功：0
+失敗：1800
+処理時間：00分06秒
+
+2017-09-24 10:00:11
+ファイル名：PPSDBD_Product Family VS Platform_Ver1.5_forPPMD.xlsx
+総行数：1801行
+処理結果：
+成功：0
+失敗：1800
+処理時間：00分06秒
+
+2017-09-24 18:56:00
+ファイル名：PPSDBD_Product Family VS Platform_Ver1.5_forPPMD.xlsx
+総行数：1801行
+処理結果：
+成功：1800
+失敗：0
+処理時間：00分05秒
+
+2017-09-24 21:27:34
+ファイル名：test_PPSDBD_Product Family VS Platform_Ver1.5_forPPMD.xlsx
+総行数：1803行
+処理結果：
+成功：1800
+失敗：2
+処理時間：00分05秒
+
+2017-09-25 07:10:23
+ファイル名：test_PPSDBD_Product Family VS Platform_Ver1.5_forPPMD.xlsx
+総行数：1803行
+処理結果：
+成功：1800
+失敗：2
+処理時間：00分05秒
+
+2017-09-25 07:17:02
+ファイル名：test_PPSDBD_Product Family VS Platform_Ver1.5_forPPMD.xlsx
+総行数：1803行
+処理結果：
+成功：1802
+失敗：0
+処理時間：00分05秒
+
+2017-09-27 08:26:18
+ファイル名：test_PPSDBD_Product Family VS Platform_Ver1.5_forPPMD.xlsx
+総行数：1803行
+処理結果：
+成功：0
+失敗：1802
+処理時間：00分06秒
+
+2017-09-27 08:28:58
+ファイル名：test_PPSDBD_Product Family VS Platform_Ver1.5_forPPMD.xlsx
+総行数：1803行
+処理結果：
+成功：1802
+失敗：0
+処理時間：00分05秒
+
